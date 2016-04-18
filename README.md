@@ -377,6 +377,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [angular2-demo](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
 * [Angular 2 Dashboard Starter](https://github.com/hasanhameed07/angular2-dashboard-starter) - Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme. 
 * [Angular 2 quickstart seed](https://github.com/valor-software/angular2-quickstart)
+* [Angular2 Seed Advanced](https://github.com/NathanWalker/angular2-seed-advanced)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---
@@ -492,6 +493,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### NativeScript Seed Projects
 * [sample-Angular2](https://github.com/NativeScript/sample-Angular2)
+* [Angular2 Seed Advanced](https://github.com/NathanWalker/angular2-seed-advanced)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---
